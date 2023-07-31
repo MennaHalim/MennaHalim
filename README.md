@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**MennaHalim/MennaHalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="300" height ="200" align="right" src="https://media.giphy.com/media/S65QkXAcdXvF1o9gHk/giphy.gif">
 
-Here are some ideas to get you started:
+<h3 align="left">
+  Welcome to Menna Abdelhalim's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&multiline=true&repeat=false&width=435&lines=%22None+of+us+is+as+smart+as+all+of+us%22++;++Ken+Blanchard" alt="Typing SVG"></a>
+</p> 
+
+- 🎓 I'm a Computer Science fresh graduate from Ain Shams University.
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 📋 I always strive to apply what I learn and see the work of others to benefit from them.
+
+
+### Connect with Me :
+
+<a href="https://www.linkedin.com/in/menna-abdelhalim-867bb3214" target="_blank"><img src="https://img.shields.io/badge/-Menna%20Abdelhalim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+### 🛠 &nbsp;Tech Stack
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />]()
+[<img align="left" alt="linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />]()
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
+
+<br />
+<br />
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MennaHalim&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
