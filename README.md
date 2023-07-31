@@ -1,15 +1,13 @@
 
-<img width="300" height ="200" align="right" src="https://media.giphy.com/media/S65QkXAcdXvF1o9gHk/giphy.gif">
+<h2>Welcome to Menna Abdelhalim's profile! 👋 </h2>
+</p> 
 
-<h3 align="left">
-  Welcome to Menna Abdelhalim's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<img width="300" height ="200" align="right" src="https://media.giphy.com/media/S65QkXAcdXvF1o9gHk/giphy.gif">
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&multiline=true&repeat=false&width=435&lines=%22None+of+us+is+as+smart+as+all+of+us%22++;++Ken+Blanchard" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=1&pause=1000&repeat=false&width=435&lines=%22None+of+us+is+a+smart+as+all+of+us%22+Ken+Blanchard" alt="Typing SVG"></a>
 </p> 
 
 - 🎓 I'm a Computer Science fresh graduate from Ain Shams University.
@@ -30,8 +28,6 @@
 
 <br />
 <br />
-
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MennaHalim&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
