@@ -18,6 +18,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/menna-abdelhalim-867bb3214" target="_blank"><img src="https://img.shields.io/badge/-Menna%20Abdelhalim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+</p> 
 
 ### 🛠 &nbsp;Tech Stack
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />]()
@@ -28,6 +29,7 @@
 
 <br />
 <br />
+</p> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MennaHalim&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
